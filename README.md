@@ -67,3 +67,6 @@ python prepare_data.py # Combines data
 python preprocess.py # Cleans data
 python train.py # Trains the model (adjust parameters here)
 ```
+
+## License
+MIT - See [LICENSE](LICENSE)
