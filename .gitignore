@@ -1,0 +1,20 @@
+# Python
+venv/
+my_env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data
+*.pkl
+*.h5
+*.csv
+
+# Environment
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
